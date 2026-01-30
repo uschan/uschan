@@ -60,8 +60,7 @@
 ***
 
 ### ✍️ Latest Thought
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [越过山丘，却发现无人守候](https://blog.wildsaltlab.com/post/climbing-mountains-alone)- [为什么小红书上“Ask-hole”特别多？](https://blog.wildsaltlab.com/post/ask-hole-social-media)- [后来，千万个“像你”，都不是你](https://blog.wildsaltlab.com/post/a-million-faces-not-you)- [成熟是件戏服，里面住着个小孩](https://blog.wildsaltlab.com/post/the-child-inside-the-suit)- [有些再见，是为了再也不见](https://blog.wildsaltlab.com/post/goodbye-means-goodbye-forever)<!-- BLOG-POST-LIST:END -->
 ***
 
 <p align="right">
