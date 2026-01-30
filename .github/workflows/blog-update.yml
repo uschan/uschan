@@ -20,5 +20,5 @@ jobs:
           # 注意：with 必须比 uses 往后缩进两个空格
           feed_list: "https://blog.wildsaltlab.com/rss.xml,https://wildsaltlab.com/feed.xml"
           user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
-          max_post_count: 5
-          template: "- [$title]($url)"
+          max_post_count: 12
+          template: "- 📖 [ $title ]($url) <br/>"
