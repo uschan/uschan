@@ -1,0 +1,20 @@
+name: Latest Blog Post Workflow
+on:
+  schedule: # 自动运行时间：每 6 小时
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # 也可以手动点击运行
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # 这里填入你的 RSS 链接，可以用逗号分隔多个
+          feed_list: "https://blog.wildsaltlab.com/rss.xml,https://wildsaltlab.com/feed.xml"
+          max_post_count: 5
+          template: "- [$title]($url)"
