@@ -60,17 +60,8 @@
 ***
 
 ### ✍️ Latest Thought
-
-
-
-
-    
-### 📊 Laboratory Activity
-
-![WildSalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=uschan&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=00000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uschan&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=00000000)
-
+``
+``
 ***
 
 <p align="right">
