@@ -60,7 +60,8 @@
 ***
 
 ### ✍️ Latest Thought
-
+``
+``
 ***
 
 <p align="right">
