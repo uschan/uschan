@@ -60,8 +60,10 @@
 ***
 
 ### ✍️ Latest Thought
-- [🌊 WildSaltLab 内容自动化工作流说明文档](https://blog.wildsaltlab.com/)
-- [在算法时代保持“野生”的创作状态]
+
+
+
+
     
 ### 📊 Laboratory Activity
 
