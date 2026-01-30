@@ -60,8 +60,8 @@
 ***
 
 ### ✍️ Latest Thought
-``
-``
+<!--BLOG-POST-LIST:START-->
+<!--BLOG-POST-LIST:END-->
 ***
 
 <p align="right">
