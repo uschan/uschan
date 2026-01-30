@@ -1,4 +1,3 @@
-```
 # 👨‍💻 WildSalt .LAB
 
 ```text
@@ -81,5 +80,3 @@
 </p>
 
 © 2026 **WildSalt 野盐**. [Personal Site](https://wildsaltlab.com/) / [Blog](https://blog.wildsaltlab.com/)
-
-```
