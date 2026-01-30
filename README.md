@@ -72,11 +72,8 @@
 ***
 
 <p align="right">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-In\_the\_Lab-white%3Fstyle%3Dflat-square" alt="Status">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vibe-Minimalism-black%3Fstyle%3Dflat-square" alt="Vibe">
-
+  <img src="https://img.shields.io/badge/Status-In_the_Lab-white?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Vibe-Minimalism-black?style=flat-square" alt="Vibe">
 </p>
 
 © 2026 **WildSalt 野盐**. [Personal Site](https://wildsaltlab.com/) / [Blog](https://blog.wildsaltlab.com/)
