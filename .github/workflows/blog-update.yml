@@ -2,7 +2,7 @@ name: Latest Blog Post Workflow
 
 on:
   schedule:
-    # 自动运行时间：每 6 小时
+    # 自动运行时间：每 600 小时
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
